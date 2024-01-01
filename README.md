@@ -1,5 +1,5 @@
 # PDF Chat Pinecone and Langchain
-
+ 
 ![final output ](https://i.pinimg.com/originals/2a/8e/b8/2a8eb889addd7a1f77d67facb29960d5.jpg)
 
 🚀 PDF Chat: Transforming PDFs into Conversational Hubs with Next.js and Pinecone
