@@ -6,7 +6,7 @@
 
 Elevate your document collaboration with PDF Chat, powered by Next.js and Pinecone. Immerse your PDFs in a dynamic chat experience, fostering real-time discussions and collaborative annotations. PDFs, reimagined for interactive conversation.  📄💬✨
 
-🔍 Key Features:
+### 🔍 Key Features:
 
 - PineconeDB as the knowledge store
 - User-Friendly Interface
